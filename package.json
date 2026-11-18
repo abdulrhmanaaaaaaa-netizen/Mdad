@@ -1,9 +1,0 @@
-{
-  "name": "midad-studio",
-  "version": "1.0.0",
-  "private": true,
-  "description": "مِداد — استوديو عربي للكتابة والبحث وصناعة الأفكار",
-  "scripts": {
-    "start": "node server.js"
-  }
-}
